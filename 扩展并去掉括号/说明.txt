@@ -1,0 +1,6 @@
+  题目展开括号：
+  例子：input 2(a), ouput aa;
+  我认为的通用例子
+  input   1{2(3[b])3[c]} ,output bbbbbbccc
+  
+  思路：迭代去掉最里面那层的括号
